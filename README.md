@@ -11,6 +11,6 @@ Coding for Spatial Practices - Fall 2021
 | 04          | Form & Structure      | Lecture 04: Layout Basics           |
 | 05          | Adaptability & Context| Lecture 05: Responsive Web Design   |
 | 06          | Motion                | Lecture 06: Animations & Transitions|
-| 07          | Interation I          | Lecture 07: JavaScript Basics       |
-| 08          | Interation II         | Lecture 08: DOM Manipulation        |
-| 09          | Interation III        | Lecture 09: Functions & Events      |
+| 07          | Interaction I         | Lecture 07: JavaScript Basics       |
+| 08          | Interaction II        | Lecture 08: DOM Manipulation        |
+| 09          | Interaction III       | Lecture 09: Functions & Events      |
