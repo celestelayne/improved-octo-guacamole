@@ -20,10 +20,16 @@ body {
 }
 
 .item{
+  flex-grow: 1;
   margin: 5px;
   width: 100px;
   height: 100px;
   background-color: tomato;
   font-size: 42px;
+}
 
+.item:nth-child(3) {
+  flex-grow: 4;
+  background: green;
+  align-self: flex-end;
 }

@@ -1,0 +1,30 @@
+/*This applies from 0px to 600px --> MOBILE */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+.container{
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background: yellow;
+}
+
+.wrapper {
+  width: 50%;
+}
+
+@media (max-width: 768px){
+  .container{
+    background: pink;
+  }
+}
