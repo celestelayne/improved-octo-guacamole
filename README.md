@@ -1,5 +1,6 @@
 # improved-octo-guacamole
-Coding for Spatial Practices - Fall 2021
+
+ARCH A4988 | Coding for Spatial Practices | Fall 2021
 
 ### Course Description
 
