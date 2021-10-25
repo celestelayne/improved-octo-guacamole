@@ -22,6 +22,8 @@ body {
 }
 ```
 
+![Sample Website Using Custom Font](images/sample-website-using-custom-font.png)
+
 ## Resources
 
 * [Using @font-face](https://css-tricks.com/snippets/css/using-font-face/), CSS Tricks. Chris Coyier on Aug 10, 2009.
