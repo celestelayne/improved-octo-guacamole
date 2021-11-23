@@ -1,0 +1,44 @@
+// GLOBAL STYLES
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+// LIST STYLES
+
+ul {}
+
+li {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  border: 2px solid black;
+  margin: 20px;
+  list-style-type: none;
+}
+
+// BUTTON COLORS
+
+#grayButton {
+  background-color: green;
+}
+
+#whiteButton {
+  background-color: white;
+}
+
+#blueButton {
+  background-color: blue;
+}
+
+#yellowButton {
+  background-color: yellow;
+}
